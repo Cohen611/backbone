@@ -2,4 +2,26 @@ body{
   background-image: url('images/reel.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
+  color:white;
+}
+img{
+  width:300px;
+  height:300px:
+}
+h1{
+  text-align: center;
+}
+article img {
+  width: 40%;
+}
+article {
+  margin: 20px;
+  padding-bottom: 25px;
+  border-bottom: 2px solid black;
+}
+.editSection {
+  display: none;
+}
+.editing {
+  display: block;
 }
